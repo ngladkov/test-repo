@@ -1,8 +1,4 @@
-* Avro
-* Harrier
-* Hornet
-
-Datat Science Specialization are:
+Data Science Specialization are:
 
 * Data Scientist's toolbox
 * R Programming-
